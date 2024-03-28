@@ -1,0 +1,45 @@
+body {
+    background-color: #fff;
+    /* background-image: url("./images/istockphoto-1282805493-612x612.jpg"); */
+}
+
+/* #bg {
+    background-color: white;
+    opacity: .1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+} */
+
+h1, h2 {
+    color: #eb5c14;
+}
+
+ul, ol, p {
+	background: #ffebbb; 
+}
+
+blockquote, p {
+    background: #e0ffcd;
+}
+
+/*
+.first-color { 
+	background: #e0ffcd; 
+}
+	
+.second-color { 
+	background: #fdffcd;
+    color: #eb5c14;
+}
+
+.third-color { 
+	background: #ffebbb; 
+}
+
+.fourth-color { 
+	background: #ffcab0; 
+}
+*/
